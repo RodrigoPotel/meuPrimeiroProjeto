@@ -1,3 +1,3 @@
-function ola() {
-    console.log("Olá, mundo")
+function tchau() {
+    console.log("Tchau, mundo cruel")
 }
